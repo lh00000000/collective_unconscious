@@ -1,0 +1,4 @@
+request
+google
+bs4
+nltk
